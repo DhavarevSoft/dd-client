@@ -1,0 +1,6 @@
+{
+  "name": "DD-Client",
+  "tagline": "A WebService client for Dhavarev Server",
+  "body": "### Welcome to DD-Client.\r\nThis is a java library for using webservices for Dhavarev Server\r\n\r\n### Authors and Contributors\r\nIn 2014, DaltonDhavarev (@daltondh) founded Dhavarev Server.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://github.com/DhavarevSoft/dd-client/wiki/Documentation) or [file a isssue](https://github.com/DhavarevSoft/dd-client/issues) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
